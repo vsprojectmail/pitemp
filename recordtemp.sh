@@ -1,0 +1,1 @@
+python get_Temp.py >> temp.csv
