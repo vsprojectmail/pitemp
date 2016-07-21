@@ -1,0 +1,1 @@
+python getSync_Temp.py
